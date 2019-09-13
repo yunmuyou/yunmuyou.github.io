@@ -18,9 +18,9 @@ sidebar-avatar: img/avatar-m.jpg      # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: 
-weibo_username:     云木游
-zhihu_username:     云木游
-github_username:    yunmuyou
+weibo_username: 云木游
+zhihu_username: 云木游
+github_username: yunmuyou
 # facebook_username:  
 # jianshu_username:   
 # twitter_username:   
